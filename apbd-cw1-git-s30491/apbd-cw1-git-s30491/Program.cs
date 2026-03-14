@@ -37,3 +37,8 @@ int CalculateMax(int[] values)
     return max;
 }
 // here be dragons
+
+int CalculateMin(int[] values)
+{
+    
+}

@@ -36,7 +36,7 @@ int CalculateMax(int[] values)
 
     return max;
 }
-// here be dragons
+// here be treasure
 
 int CalculateMin(int[] values)
 {

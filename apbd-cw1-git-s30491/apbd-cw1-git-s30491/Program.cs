@@ -6,7 +6,7 @@ for (int i = 0; i < 10; i++)
     {
         Console.WriteLine("d");
     }
-    else if (i % 2 = 1)
+    else if (i % 2 == 1)
     {
         Console.WriteLine("e");
     }

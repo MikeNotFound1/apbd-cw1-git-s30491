@@ -8,5 +8,5 @@ Merge łączy dwie historie w jedną, zachowując przy tym wszystkie informacje.
 
 \#W jaki sposób został rozwiązany konflikt w Twoim repozytorium?
 
-
+Na podstawie obu kawałków kodu połączyłem ręcznie zmiany zgodnie z oczekiwanym rezultatem końcowym.
 

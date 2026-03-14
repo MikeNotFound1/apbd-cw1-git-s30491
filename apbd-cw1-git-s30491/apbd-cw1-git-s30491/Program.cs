@@ -18,8 +18,21 @@ int CalculateAverage(int[] values)
     for (int i = 0; i < values.Length; i++)
     {
         sum += values[i];
-        
     }
 
     return sum / values.Length;
+}
+
+int CalculateMax(int[] values)
+{
+    int max = 0;
+    for (int i = 0; i < values.Length; i++)
+    {
+        if (values[i] > max)
+        {
+            max = values[i];
+        }
+    }
+
+    return max;
 }
